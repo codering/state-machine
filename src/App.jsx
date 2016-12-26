@@ -22,7 +22,7 @@ class App extends Component {
             <ul>
                 <li>aaa</li>
                 <li>bbb</li>
-                <li onClick={this.handleClick}>ccc</li>
+                <li onClick={this.handleClick}>ccc (click me)</li>
                 <li>ddd</li>
             </ul>
         )
