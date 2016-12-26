@@ -1,0 +1,21 @@
+{
+  "name": "state-machine",
+  "version": "1.0.0",
+  "description": "react state machine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "PORT=9000 roadhog server --no-open",
+    "build": "roadhog build"
+  },
+  "author": "codering",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^15.4.1",
+    "react-dom": "^15.4.1"
+  },
+  "devDependencies": {
+    "babel-plugin-import": "^1.1.0",
+    "babel-plugin-transform-runtime": "^6.15.0"
+  }
+}
